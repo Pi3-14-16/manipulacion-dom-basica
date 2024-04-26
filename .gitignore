@@ -235,8 +235,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-ApuntesClase.md
+.ApuntesClases.md
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,linux,visualstudiocode,node
 
 
+.ApuntesClases.md
